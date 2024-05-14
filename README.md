@@ -1,3 +1,4 @@
 # FitnessTracker
  For the lecture "Software Engineering"
- New messagef
+ New message
+ How am I
