@@ -10,6 +10,3 @@ height for progress tracking. The
 software will feature intuitive 
 visualization tools for goal setting and 
 progress monitoring.
-
-wassup
-aaaaa
